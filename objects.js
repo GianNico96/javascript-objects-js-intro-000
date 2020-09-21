@@ -1,4 +1,4 @@
-var playList = new object({JerryRivera: 'Cara de niño'});
+var playlist = {JerryRivera: 'Cara de niño'};
 
 function updatePlaylist(playlist, artistName,songTitle)
 {
